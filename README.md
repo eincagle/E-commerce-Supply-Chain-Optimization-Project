@@ -16,7 +16,7 @@ This project is an end-to-end business intelligence solution analyzing Brazilian
 - Payment method breakdown
 - Customer feedback distribution (review scores)
 
-![Dashboard Preview](Images/dashboard_preview.jpg)
+![Dashboard Preview](images/dashboard_preview.jpg)
 
 ## Project Structure
 
